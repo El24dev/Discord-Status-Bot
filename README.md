@@ -12,3 +12,6 @@ python -m pip install -r requirements.txt
 [PREVIEW]
 
 https://i.ibb.co/YTTFsW7/image.png
+
+If you have any problems or questions, please contact me at discord
+_el24_
